@@ -2,6 +2,29 @@ body {
   background-color: #6c886d;
 }
 
+header {
+  background-color: goldenrod;
+  border: #000000 5px solid;
+  padding: 20px;
+  margin: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.recipe-container {
+  background-color: #000000;
+  text-align: center;
+  border: goldenrod 5px solid;
+  padding: 20px;
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.recipe-list {
+  list-style-type: none;
+}
+
 h1 {
   color: #000000;
   text-align: center;
